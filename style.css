@@ -22,7 +22,7 @@ body {
 }
 
 .moving-div {
-    animation: moving 10s infinite 0.5s;
+    animation: moving 12s infinite 0.5s;
 }
 
 #time-display {
